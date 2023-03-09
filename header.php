@@ -67,8 +67,8 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">Genre</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Type de genre</a>
-              <a class="dropdown-item" href="#">Ajouter un genre</a>
+              <a class="dropdown-item" href="Genre/listeGenre.php">Type de genre</a>
+              <a class="dropdown-item" href="Genre/formGenre.php?action=Ajouter">Ajouter un genre</a>
             </div>
           </li>
           <li class="nav-item dropdown">
